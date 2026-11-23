@@ -20,9 +20,13 @@ sudo apt install build-essential cmake libgl1-mesa-dev libglew-dev libglfw3-dev 
 ```
 
 Clone the repo and compile the code
+
 ```
 git clone https://github.com/sohamsarpotdar2001/swarm-algorithms-opengl.git
 cd swarm-algorithms-opengl
 g++ boids_gl.cpp -o boids -lGL -lGLU -lGLEW -lglfw
 ./boids
 ```
+<img width="800" height="618" alt="boids_opengl" src="https://github.com/user-attachments/assets/fa2d69ae-e1ac-43b2-b200-03f3b7018d2d" />
+
+
