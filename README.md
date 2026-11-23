@@ -27,6 +27,5 @@ cd swarm-algorithms-opengl
 g++ boids_gl.cpp -o boids -lGL -lGLU -lGLEW -lglfw
 ./boids
 ```
-<img width="800" height="618" alt="boids_opengl" src="https://github.com/user-attachments/assets/fa2d69ae-e1ac-43b2-b200-03f3b7018d2d" />
-
+<img width="500" height="400" alt="boids_opengl" src="https://github.com/user-attachments/assets/fa2d69ae-e1ac-43b2-b200-03f3b7018d2d" /> <img width="500" height="400" alt="2026-11-23_22-51-14-ezgif com-crop" src="https://github.com/user-attachments/assets/9bbdd997-ee0f-49a0-9035-4747c548357b" />
 
